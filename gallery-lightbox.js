@@ -11,6 +11,7 @@
             });
         });
 
+        // Optional Lightbox options
         lightbox.option({
             'resizeDuration': 200,
             'fadeDuration': 0,
