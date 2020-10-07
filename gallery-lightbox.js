@@ -13,9 +13,10 @@
 
         // Optional Lightbox options
         lightbox.option({
-            'resizeDuration': 200,
+            'resizeDuration': 0,
             'fadeDuration': 0,
-            'albumLabel': "%1 / %2"
+            'albumLabel': "%1 / %2",
+            'imageFadeDuration': 0,
         })
 
     });
